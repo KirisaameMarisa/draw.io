@@ -559,17 +559,41 @@
         <mxCell id="CgX3lYvLReWzRcqZhdB1-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=default;strokeColor=none;" value="..." vertex="1">
           <mxGeometry height="30" width="30" x="536" y="428" as="geometry" />
         </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-117" edge="1" parent="1" source="CgX3lYvLReWzRcqZhdB1-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CgX3lYvLReWzRcqZhdB1-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CgX3lYvLReWzRcqZhdB1-108" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\int\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="1283" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-123" edge="1" parent="1" source="CgX3lYvLReWzRcqZhdB1-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CgX3lYvLReWzRcqZhdB1-118">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CgX3lYvLReWzRcqZhdB1-110" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\int\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="1283" y="215" as="geometry" />
         </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-122" edge="1" parent="1" source="CgX3lYvLReWzRcqZhdB1-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CgX3lYvLReWzRcqZhdB1-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CgX3lYvLReWzRcqZhdB1-113" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\int\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="1283" y="355" as="geometry" />
         </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-121" edge="1" parent="1" source="CgX3lYvLReWzRcqZhdB1-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CgX3lYvLReWzRcqZhdB1-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CgX3lYvLReWzRcqZhdB1-114" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\int\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="1283" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-116" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;\({\tilde {\boldsymbol J}}^{1,j}_r\)&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="1427" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-118" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;\({\tilde {\boldsymbol J}}^{2,j}_r\)&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="1427" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-119" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;\({\tilde {\boldsymbol J}}^{3,j}_r\)&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="1427" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="CgX3lYvLReWzRcqZhdB1-120" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;\({\tilde {\boldsymbol J}}^{m,j}_r\)&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="1427" y="502" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
