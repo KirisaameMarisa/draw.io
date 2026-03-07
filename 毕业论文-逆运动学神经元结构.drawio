@@ -465,6 +465,27 @@
         <mxCell id="SktDlg5N3dgWstscOisr-171" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\( u^n\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="1100" y="530" as="geometry" />
         </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-177" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="100" width="325" x="800" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-178" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\sum\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="835" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-179" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\int\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="937.5" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-180" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\(\Xi_1\)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="1040" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-181" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="求和运算符" vertex="1">
+          <mxGeometry height="30" width="90" x="810" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-182" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="积分运算符" vertex="1">
+          <mxGeometry height="30" width="90" x="912.5" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDlg5N3dgWstscOisr-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="激活函数" vertex="1">
+          <mxGeometry height="30" width="90" x="1015" y="660" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
