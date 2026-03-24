@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.5">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1277" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1866" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,8 +407,26 @@
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-322" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.performance_monitor" value="" vertex="1">
           <mxGeometry height="36" width="50" x="35" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-323" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$\boldsymbol&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;{J}_p$$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="85" y="609" as="geometry" />
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-323" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$\boldsymbol J_p(0)$$" vertex="1">
+          <mxGeometry height="31" width="45" x="85" y="609" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-324" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" value="$$\boldsymbol J_r(0)$$" vertex="1">
+          <mxGeometry height="28" width="53" x="150" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$\Xi_1$$" vertex="1">
+          <mxGeometry height="31" width="45" x="160" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-326" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="$$\Xi_2$$" vertex="1">
+          <mxGeometry height="31" width="45" x="210" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-327" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="收敛系数\(\gamma\)" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-328" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="收敛系数\(\mu\)" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-329" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="阻尼系数\(\lambda\)" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
