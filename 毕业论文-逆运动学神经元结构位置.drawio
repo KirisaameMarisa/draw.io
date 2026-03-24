@@ -486,6 +486,15 @@
         <mxCell id="SktDlg5N3dgWstscOisr-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontSize=22;" value="激活函数" vertex="1">
           <mxGeometry height="30" width="90" x="1015" y="662" as="geometry" />
         </mxCell>
+        <mxCell id="qwJtMsRGJRWFj9Fxd4HW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=default;strokeColor=none;fontStyle=1;fontSize=22;" value="..." vertex="1">
+          <mxGeometry height="30" width="30" x="920" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="qwJtMsRGJRWFj9Fxd4HW-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=default;strokeColor=none;fontStyle=1;fontSize=22;" value="..." vertex="1">
+          <mxGeometry height="30" width="30" x="1010" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="qwJtMsRGJRWFj9Fxd4HW-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=default;strokeColor=none;fontStyle=1;fontSize=22;" value="..." vertex="1">
+          <mxGeometry height="30" width="30" x="1100" y="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
