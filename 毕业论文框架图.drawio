@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.5">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1213" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="837" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,17 @@
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-118" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="rounded=1;whiteSpace=wrap;html=1;" value="与地面保持平行" vertex="1">
           <mxGeometry height="21.5" width="90" x="173.44" y="85.38" as="geometry" />
         </mxCell>
-        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-307" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="rounded=1;whiteSpace=wrap;html=1;" value="跟随者期望位置" vertex="1">
-          <mxGeometry height="31.5" width="130" x="70" y="508.5" as="geometry" />
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-307" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="rounded=1;whiteSpace=wrap;html=1;" value="跟随者期望位置\(\boldsymbol p_d^f\)" vertex="1">
+          <mxGeometry height="31.5" width="130" x="67.5" y="508.5" as="geometry" />
         </mxCell>
-        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-306" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="rounded=1;whiteSpace=wrap;html=1;" value="领导者期望位置" vertex="1">
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-342" edge="1" parent="1q6iUD9Jc0n9vQyCEBFu-101" source="1q6iUD9Jc0n9vQyCEBFu-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1q6iUD9Jc0n9vQyCEBFu-307">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-306" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="rounded=1;whiteSpace=wrap;html=1;" value="领导者期望位置\(\boldsymbol p_d^l\)" vertex="1">
           <mxGeometry height="30" width="125" x="70" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-338" connectable="0" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="116.55999999999995" x="160" y="600" as="geometry" />
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-338" connectable="0" parent="1q6iUD9Jc0n9vQyCEBFu-101" style="group;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="116.55999999999995" x="170" y="340" as="geometry" />
         </mxCell>
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-291" parent="1q6iUD9Jc0n9vQyCEBFu-338" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" value="" vertex="1">
           <mxGeometry height="60" width="116.56" as="geometry" />
@@ -399,8 +402,8 @@
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-332" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="雅可比矩阵更新模块激活函数\(\Xi_2\)" vertex="1">
           <mxGeometry height="17.25" width="190" x="90" y="863.75" as="geometry" />
         </mxCell>
-        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-339" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="116.55999999999995" x="620" y="820" as="geometry" />
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-339" connectable="0" parent="1" style="group;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="116.55999999999995" x="564.19" y="520" as="geometry" />
         </mxCell>
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-295" parent="1q6iUD9Jc0n9vQyCEBFu-339" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="60" width="116.56" as="geometry" />
