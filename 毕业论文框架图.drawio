@@ -172,7 +172,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$\theta_1$$" vertex="1">
-          <mxGeometry height="60" width="120" x="480" y="703" as="geometry" />
+          <mxGeometry height="17" width="30" x="940" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$\theta_2$$" vertex="1">
+          <mxGeometry height="17" width="30" x="970" y="703" as="geometry" />
+        </mxCell>
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="$$\Delta\theta$$" vertex="1">
+          <mxGeometry height="17" width="30" x="927" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
