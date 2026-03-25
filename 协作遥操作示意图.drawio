@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="第 1 页" id="fLMWShfCLkWFdK7aFx2C">
-    <mxGraphModel dx="1733" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,18 @@
         </mxCell>
         <mxCell id="zV_zMqw1tRJj-mc11Bqt-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="1150" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="zV_zMqw1tRJj-mc11Bqt-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="\(\boldsymbol p_{obj}\)" vertex="1">
+          <mxGeometry height="20" width="40" x="1120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="zV_zMqw1tRJj-mc11Bqt-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="\(\boldsymbol v_{obj}\)" vertex="1">
+          <mxGeometry height="20" width="40" x="1240" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="zV_zMqw1tRJj-mc11Bqt-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="\(\boldsymbol p_{m}\)" vertex="1">
+          <mxGeometry height="20" width="40" x="910" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="zV_zMqw1tRJj-mc11Bqt-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="\(\boldsymbol p_{t}\)" vertex="1">
+          <mxGeometry height="20" width="40" x="1190" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
