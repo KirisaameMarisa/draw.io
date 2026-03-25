@@ -17,7 +17,7 @@
           <mxGeometry height="60" width="140" x="1360" y="170" as="geometry" />
         </mxCell>
         <mxCell id="zV_zMqw1tRJj-mc11Bqt-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=宋体;strokeColor=#E6E6E6;" value="镜面平面" vertex="1">
-          <mxGeometry height="60" width="120" x="1550" y="550" as="geometry" />
+          <mxGeometry height="60" width="120" x="1380" y="442" as="geometry" />
         </mxCell>
         <mxCell id="zV_zMqw1tRJj-mc11Bqt-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.607;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=21;fontFamily=宋体;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="zV_zMqw1tRJj-mc11Bqt-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zV_zMqw1tRJj-mc11Bqt-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1484" y="628" as="sourcePoint" />
-            <mxPoint x="1160" y="340" as="targetPoint" />
+            <mxPoint x="1349" y="539" as="sourcePoint" />
+            <mxPoint x="990" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
