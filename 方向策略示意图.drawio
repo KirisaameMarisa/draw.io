@@ -82,6 +82,12 @@
             <mxPoint x="877" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n7vBEjKbt2DBWKm0QAqx-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=宋体;strokeColor=#E6E6E6;" value="\(\boldsymbol v_d^f\)" vertex="1">
+          <mxGeometry height="30" width="70" x="730" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n7vBEjKbt2DBWKm0QAqx-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontFamily=宋体;strokeColor=#E6E6E6;" value="\(\boldsymbol v_d^l\)" vertex="1">
+          <mxGeometry height="30" width="70" x="990" y="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
