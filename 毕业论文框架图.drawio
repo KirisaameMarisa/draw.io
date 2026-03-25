@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.5">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1427" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1348" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-355" parent="1q6iUD9Jc0n9vQyCEBFu-403" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
-          <mxGeometry height="29" width="34.04347826086957" x="70.43478260869566" y="76.5" as="geometry" />
+          <mxGeometry height="29" width="29" x="70.43478260869566" y="76.5" as="geometry" />
         </mxCell>
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-356" parent="1q6iUD9Jc0n9vQyCEBFu-403" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;罗德里格斯旋转公式&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="78.65217391304348" x="50.47826086956522" y="120" as="geometry" />
@@ -473,7 +473,7 @@
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-387" parent="1q6iUD9Jc0n9vQyCEBFu-103" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;雅可比矩阵\(\tilde{\boldsymbol J}\)&lt;/font&gt;" vertex="1">
           <mxGeometry height="28" width="85" x="105" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-105" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;fillColor=#E6E6E6;strokeColor=#666666;swimlaneFillColor=#EFEFEF;fontColor=#333333;" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 18px;&quot;&gt;操作者控制端&lt;/font&gt;" vertex="1">
+        <mxCell id="1q6iUD9Jc0n9vQyCEBFu-105" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;startSize=23;fillColor=#E6E6E6;strokeColor=#666666;swimlaneFillColor=#EFEFEF;fontColor=#333333;" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;操作者控制端&lt;/font&gt;" vertex="1">
           <mxGeometry height="620" width="230" x="140" y="100" as="geometry" />
         </mxCell>
         <mxCell id="1q6iUD9Jc0n9vQyCEBFu-115" parent="1q6iUD9Jc0n9vQyCEBFu-105" style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=16;fillColor=#eeeeee;strokeColor=#36393d;swimlaneFillColor=default;" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 18px;&quot;&gt;预设与准备&lt;/font&gt;" vertex="1">
